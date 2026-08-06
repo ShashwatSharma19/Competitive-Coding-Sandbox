@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
