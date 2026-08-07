@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,13 +95,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
