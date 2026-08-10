@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
+| [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
 | [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0295-find-median-from-data-stream) |
+| [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
 | [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
 ## Sorting
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
