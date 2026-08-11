@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
