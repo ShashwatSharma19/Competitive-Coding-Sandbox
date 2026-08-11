@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
