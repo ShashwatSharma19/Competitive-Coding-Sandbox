@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0435-non-overlapping-intervals) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Counting
 |  |
 | ------- |
