@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Counting
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
 ## Quicksort
 |  |
