@@ -69,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0435-non-overlapping-intervals) |
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
