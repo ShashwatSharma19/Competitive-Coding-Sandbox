@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
