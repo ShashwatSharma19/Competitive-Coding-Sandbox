@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1405-longest-happy-string) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1405-longest-happy-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1405-longest-happy-string) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0763-partition-labels](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1405-longest-happy-string) |
 ## Quicksort
 |  |
 | ------- |
