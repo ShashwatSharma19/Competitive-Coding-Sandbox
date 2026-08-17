@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0077-combinations) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
