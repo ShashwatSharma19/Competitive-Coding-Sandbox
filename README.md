@@ -219,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0196-delete-duplicate-emails) |
 | [1795-rearrange-products-table](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1795-rearrange-products-table) |
+| [1907-count-salary-categories](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
