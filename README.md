@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
