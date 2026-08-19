@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1484-group-sold-products-by-the-date](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1693-daily-leads-and-partners) |
