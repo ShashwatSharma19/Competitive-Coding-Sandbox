@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
