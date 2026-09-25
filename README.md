@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
