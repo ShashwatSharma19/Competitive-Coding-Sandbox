@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+| [1768-merge-strings-alternately](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
