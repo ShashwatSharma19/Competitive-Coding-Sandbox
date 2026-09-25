@@ -41,4 +41,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
