@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
 | [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
 |  |
@@ -93,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
