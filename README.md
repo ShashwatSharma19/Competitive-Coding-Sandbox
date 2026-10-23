@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
+| [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0005-longest-palindromic-substring) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
