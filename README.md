@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 | [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
 | [0986-interval-list-intersections](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0075-sort-colors) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0729-my-calendar-i) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ShashwatSharma19/Competitive-Coding-Sandbox/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
