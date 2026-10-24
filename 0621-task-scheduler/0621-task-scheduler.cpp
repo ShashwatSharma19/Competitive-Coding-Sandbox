@@ -8,19 +8,19 @@ public:
         int countMax = 0;
 
         for(int f:freq){
-            if(f> maxFreq){
+            if(f>maxFreq){
                 maxFreq = f;
                 countMax = 1;
-            }else if (f==maxFreq){
+            }else if (f == maxFreq){
                 countMax++;
             }
         }
 
         int partCount = maxFreq-1;
-        int partLength = n+1;
-        int emptySlot = partCount*partLength;
+        int partlength = n+1;
+        int emptySlot = partCount* partlength;
 
-        int totalSlots = emptySlot + countMax;
+        int totalSlots = emptySlot+ countMax;
 
         return max((int)tasks.size(), totalSlots);
     }
